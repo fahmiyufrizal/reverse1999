@@ -7,7 +7,7 @@ https://re1999.bluepoch.com/
 - Auto Adjust Reverse1999 Game Path (for different drive-letter gamedisk)
 
 ## Cara Pakai :
-1. Install Reverese1999 seperti biasa
+1. Install Reverse1999 seperti biasa
 2. Letakkan Reverse1999_NetCafe_Launcher.exe di dalam folder berdampingan dengan reverse1999-launcher.exe
 3. Atur shortcut di game-menu ke Reverse1999_NetCafe_Launcher.exe
 
